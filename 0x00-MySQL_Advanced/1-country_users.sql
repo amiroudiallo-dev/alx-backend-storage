@@ -1,4 +1,4 @@
-
+-- create a table with unique users.
 DROP TABLE IF EXISTS users;
 CREATE TABLE users (
   id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
